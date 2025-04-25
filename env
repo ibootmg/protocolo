@@ -2,10 +2,10 @@
 DATA_FOLDER=/root/n8n/
 
 # The top level domain to serve from
-DOMAIN_NAME=api.iboot.pro #altere para o dominio principal do seu site
+DOMAIN_NAME=protocolo.araguari.pro #altere para o dominio principal do seu site
 
 # The subdomain to serve from
-SUBDOMAIN=n8n.iboot.pro #coloque somente o subdominio do seu site
+SUBDOMAIN=procolo2.araguari.pro #coloque somente o subdominio do seu site
 
 # DOMAIN_NAME and SUBDOMAIN combined decide where n8n will be reachable from
 # above example would result in: https://n8n.example.com
